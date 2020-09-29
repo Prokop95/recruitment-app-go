@@ -1,0 +1,12 @@
+app:
+  port: 8080
+
+cassandra:
+  host: cassandra
+  keyspace: recruitment
+mail:
+  user: prokop.p.test@gmail.com
+  password: P@ssw0rd_a
+  smtp:
+    host: smtp.gmail.com
+    port: 587
